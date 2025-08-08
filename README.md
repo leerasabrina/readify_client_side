@@ -1,4 +1,4 @@
- <img src="https://i.ibb.co/XYZabc1/screenshot.png" alt="Screenshot" width="600"/>
+ <img src="https://i.ibb.co.com/Zz1F24n2/Screenshot-2025-08-08-162345.png" alt="Screenshot" width="600"/>
 
 # Readify
 
