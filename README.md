@@ -33,6 +33,20 @@ The goal of this project is to:
 - Firebase
 - React Hook Form
 - React  Toastify
-- Framer Motion 
+- Framer Motion
+  
+## 🧰 Dependencies:
+- react-router
+- axios
+- react-icons
 
+## 🖼️ Screenshot:
+![screenshot](https://i.ibb.co.com/Zz1F24n2/Screenshot-2025-08-08-162345.png)
+
+## 🛠️ How to Run Locally:
+```bash
+git clone https://github.com/leerasabrina/readify_client_side.git
+cd readify_client_side
+npm install
+npm run dev
 
