@@ -1,4 +1,6 @@
-#  Readify
+ <img src="https://i.ibb.co/XYZabc1/screenshot.png" alt="Screenshot" width="600"/>
+
+# Readify
 
 **Readify** is a modern web application where users can add books, upvote others' books, and leave reviews. It's a social platform for book lovers to share, discover, and engage with interesting reads
 
@@ -40,8 +42,6 @@ The goal of this project is to:
 - axios
 - react-icons
 
-## 🖼️ Screenshot:
-![screenshot](https://i.ibb.co.com/Zz1F24n2/Screenshot-2025-08-08-162345.png)
 
 ## 🛠️ How to Run Locally:
 ```bash
